@@ -1,0 +1,4 @@
++no. of steps in the code is called iterations
++there are two things:
+    space and time compelxicity
++
